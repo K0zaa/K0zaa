@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: Next.js & Node.js<br>📫 How to reach me: goatw7806gaming@gmail.com</p>
+<p align="left">📚 I'm currently learning: Next.js, Node.js & Django<br>📫 How to reach me: goatw7806gaming@gmail.com</p>
 
 ###
 
